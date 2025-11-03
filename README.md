@@ -1,9 +1,6 @@
 # MATH_789_final_project
 
-# Credit Default Risk Simulation  
-**Author:** *Your Name*  
-**Course / Final Project Submission – [Insert Course Name or Institution]*  
-
+# Credit Default Risk Simulation   
 ---
 
 ## Overview
